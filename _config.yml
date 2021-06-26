@@ -1,0 +1,9 @@
+plugins:
+  - jekyll-redirect-from
+
+title: "UNSW Minecraft Society"
+email: "unswminecraftexecs@gmail.com"
+
+url: "https://unswminecraft.com"
+baseurl: ""
+
